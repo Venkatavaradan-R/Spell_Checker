@@ -2,7 +2,7 @@
 implementing a spell checker using C
 
 
-TO IMPLEMENT:
+TO RUN:
 put all files into the same dir
 to compile, use the command : 
 
@@ -13,3 +13,7 @@ to view output do:
 
 and to remove unnecessary .o files do:
 make clean
+
+
+status: incomplete
+  the search trie fn isnt working
