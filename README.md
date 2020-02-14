@@ -1,4 +1,4 @@
-# Spell_Checker
+# Spell_Corrector
 implementing a spell checker using C
 
 
